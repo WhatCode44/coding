@@ -79,3 +79,15 @@ a {
 	text-transform: uppercase;
 	font-weight:normal;
 }
+.cont {
+	text-align: center;
+	font-size: 25px;
+	color: #ffff;
+	font-family: 'Roboto Condensed';
+	text-transform: uppercase;
+	font-weight: normal;
+}
+.email {
+	font-size: 50px;
+	color: #47DFA7;
+}
